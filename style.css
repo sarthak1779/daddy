@@ -1,0 +1,88 @@
+body{
+		font-size: 25px;
+		background-size: cover;
+		background-color: black;
+	}
+	img{
+		padding: 0;
+		margin: 0;
+		width: 1330px;
+		border: 2px solid red;
+		
+	}
+	a{
+		background-color: blue;
+		border: 2px solid white;
+		color: white;
+		text-decoration: none; 
+	}
+	a:hover{
+		background-color: red;
+		transition: blink;
+	}
+	p{
+		color: yellow;
+	}
+	div{
+		border: 2px solid red;
+		text-align: center;
+	}
+	video{
+		width: 500px;
+		height: 500px;
+	}
+	label{
+		color:orange;
+	}
+	input{
+        height:30px;
+        width: 300px;
+
+	}
+	#namen{
+         margin-left: 36PX;
+	}
+	#en{
+		margin-left: 31PX;         
+
+	}
+	button{
+		color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    box-shadow: none;
+    font-size: 20px;
+    border-radius: 27px;
+    margin-left: 100px;
+	}
+	h4{
+		color: #5EBED7;
+
+	}
+	h3{
+		color: #5EBED7;
+
+	}
+	h1{
+		background-color: black;
+		color: blue;
+		font-size: 100px;
+		text-align: center;
+		border: 5px double red;
+		height: 350px;
+		margin-top: 0;
+		padding-top: 150px;
+		margin-bottom: 2px;
+	}
+	#ff{
+		background-color: yellow;
+		border: 2px solid white;
+		font-color: red;
+		margin-left: 48PX;
+		padding-top: 5PX;
+	}
+	.about{
+		color: grey;
+		text-align: center;
+		text-decoration: bold;
+	}
